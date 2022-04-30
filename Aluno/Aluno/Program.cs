@@ -9,8 +9,8 @@ int n2 = Convert.ToInt32(Console.ReadLine());
 float media;
 media = (n1 + n2) / 2f;
 if (media<5)
-{
-    Console.WriteLine("Aluno " + nome + " Reprovado " + media);
+{ Console.WriteLine(" {0}, ficou com a media {1} e foi reprovado", nome, media);
+     Console.WriteLine($"  {nome}, ficou com a media ${media} e fio reprovado");
 }
 else
 {

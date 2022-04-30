@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edvaldo Moreira\\source\\repos\\Aluno\\Aluno\\Aluno.csproj",
+      "projectUniqueName": "C:\\Users\\Edvaldo Moreira\\source\\repos\\prog-scharp\\Aluno\\Aluno\\Aluno.csproj",
       "projectName": "Aluno",
-      "projectPath": "C:\\Users\\Edvaldo Moreira\\source\\repos\\Aluno\\Aluno\\Aluno.csproj",
+      "projectPath": "C:\\Users\\Edvaldo Moreira\\source\\repos\\prog-scharp\\Aluno\\Aluno\\Aluno.csproj",
       "packagesPath": "C:\\Users\\Edvaldo Moreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edvaldo Moreira\\source\\repos\\Aluno\\Aluno\\obj\\",
+      "outputPath": "C:\\Users\\Edvaldo Moreira\\source\\repos\\prog-scharp\\Aluno\\Aluno\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Edvaldo Moreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
